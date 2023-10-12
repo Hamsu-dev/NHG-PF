@@ -1,0 +1,19 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697118819
+icon.svg::CompressedTexture2D::2167862126585745071::1697071404::1697118820::1::::<><>::
+README.md::TextFile::-1::1697118566::0::1::::<><>::
+::res://Assets/::1697075572
+::res://Assets/Tileset/::1697076585
+DARK Edition Tileset with background.png::CompressedTexture2D::115884786296467815::1697076582::1697118820::1::::<><>::
+Tileset1.png::CompressedTexture2D::7670081051180944005::1697075536::1697118820::1::::<><>::
+::res://Elements/::1697075555
+ElementalManager.gd::GDScript::-1::1697073202::0::1::::<>Node<>::
+::res://Player/::1697118570
+player.gd::GDScript::-1::1697118348::0::1::::Player<>CharacterBody2D<>::
+player.tscn::PackedScene::5656280192861884859::1697118570::0::1::::<><>::res://Player/player.gd<>uid://vfrvyadm5b5h::::res://Player/sage 52x21.png<>res://Elements/ElementalManager.gd
+sage 52x21.png::CompressedTexture2D::1485358556431938711::1697072662::1697118820::1::::<><>::
+::res://Scenes/::1697072020
+::res://Scripts/::1697081893
+Anchor.gd::GDScript::-1::1697081893::0::1::::<>Marker2D<>::
+::res://World/::1697118459
+world.tscn::PackedScene::1839092033780484051::1697118459::0::1::::<><>::uid://bweut7ssrclb::::res://Assets/Tileset/DARK Edition Tileset with background.png<>uid://cmt7dxj534dlr::::res://Player/player.tscn<>res://Scripts/Anchor.gd
